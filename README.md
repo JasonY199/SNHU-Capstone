@@ -70,19 +70,19 @@ Click [here](https://global-traveler.vercel.app/) to view live site hosted on Ve
 
 ### Module 3
 
-- [Journal](Documentation/CS499%20M3%20Journal%20-%20Enhancement%20One.docx)
+- [Journal - Enhancement One](Documentation/CS499%20M3%20Journal%20-%20Enhancement%20One.docx)
 - [Milestone Prompts](Documentation/CS499%20M3%20Milestone%20Prompts.docx)
 
 ### Module 4
 
-- [Journal](Documentation/CS499%20M4%20Journal%20-%20Career.docx)
+- [Journal - Career](Documentation/CS499%20M4%20Journal%20-%20Career.docx)
 - [Milestone Prompts](Documentation/CS499%20M4%20Milestone%20Prompts.docx)
 
 ### Module 5
 
-- [Journal](Documentation/CS499%20M5%20Journal%20-%20CS%20Trends.docx)
+- [Journal - CS Trends](Documentation/CS499%20M5%20Journal%20-%20CS%20Trends.docx)
 - [Milestone Prompts](Documentation/CS499%20M5%20Milestone%20Prompts.docx)
 
 ### Module 6
 
-- [Journal](Documentation/CS499%20M6%20Journal%20-%20Emerging%20Technology.docx)
+- [Journal - Emerging Technology](Documentation/CS499%20M6%20Journal%20-%20Emerging%20Technology.docx)
