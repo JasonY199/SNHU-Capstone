@@ -2,6 +2,12 @@
 
 **Global Traveler** is a full-stack application I developed as a personal project, integrating various concepts I’ve learned across multiple areas of software development. Instead of tackling three separate projects, I decided to focus on creating a comprehensive single application that reflects my skills in software engineering, data structures, algorithms, and database management.
 
+Click [here](ProfessionalSummary.md) to view my professional Summary.
+
+Click [here](HowToRun.md) to view instructions on how to run this project locally.
+
+Click [here](https://global-traveler.vercel.app/) to view live site hosted on Vercel.
+
 ## Code Review
 
 A code review performs the function of quality assurance on a project by reviewing its source code and output. This is critical to the success of computer science professionals as it ensures consistency in the development of a project and allows for a higher level of coding standards to be met.
@@ -47,14 +53,6 @@ This MongoDB integration didn’t just improve data management; it transformed t
 Furthermore, this enhancement significantly boosted the application's scalability. With MongoDB, Global Traveler can easily expand to include new destinations, additional travel details, and even user-generated content in the future. This database-driven approach not only supports the current needs of the application but also provides a strong foundation for future growth.
 
 The classes that contributed to this enhancement were CS 300: Data Structures and Algorithms (where I learnt how to structure my data and use the most efficient database structure) and also CS 465: Full-Stack Development. Additionally, CS 340: Client/Server Development assisted me in learning about MongoDB and how to put it together with the front-end. 
-
-## Additional Information
-
-Click [here](ProfessionalSummary.md) to view my professional Summary.
-
-Click [here](HowToRun.md) to view instructions on how to run this project locally.
-
-Click [here](https://global-traveler.vercel.app/) to view live site hosted on Vercel.
 
 ## Journals and Prompts
 
