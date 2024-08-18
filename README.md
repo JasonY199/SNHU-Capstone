@@ -60,7 +60,7 @@ Click [here](https://global-traveler.vercel.app/) to view live site hosted on Ve
 
 ### Module 1
 
-- [Assignment](CS499%20M1%20Assignment.md)
+- [Assignment](Documentation/CS499%20M1%20Assignment.md)
 
 ### Module 2
 
