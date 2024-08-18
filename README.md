@@ -80,7 +80,7 @@ Click [here](https://global-traveler.vercel.app/) to view live site hosted on Ve
 
 ### Module 5
 
-- [Journal](Documentation/CS499%20M5%20Journal%20-%20CS%20CS%20Trends.docx)
+- [Journal](Documentation/CS499%20M5%20Journal%20-%20CS%20Trends.docx)
 - [Milestone Prompts](Documentation/CS499%20M5%20Milestone%20Prompts.docx)
 
 ### Module 6
